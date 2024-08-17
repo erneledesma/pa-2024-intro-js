@@ -10,5 +10,5 @@ console.log(combinacion)
 let combinator = [...lenguajes, ...frameworks]
 console.log(combinator)
 
-let [ultimo] = [...lenguajes].reverse()
+let [ultimo, x, y] = [...lenguajes].reverse()
 console.log(ultimo)
