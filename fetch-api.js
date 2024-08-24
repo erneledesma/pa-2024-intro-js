@@ -1,6 +1,6 @@
 //key=n1aUlw4Sso54k28c0E2HgTI3LRQKu7dq
 
-const apiKey = 'n1aUlw4Sso54k28c0E2HgTI3LRQKu7dq'
+const apiKey = ''
 
 const peticion = fetch(`https://api.giphy.com/v1/gifs/random?api_key=${ apiKey}`)
 
